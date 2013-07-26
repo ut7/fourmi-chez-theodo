@@ -1,0 +1,15 @@
+{
+  "name": "langton",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --colors"
+  },
+  "author": "",
+  "license": "BSD",
+  "devDependencies": {
+    "mocha": "~1.12.0",
+    "expect.js": "~0.2.0"
+  }
+}
